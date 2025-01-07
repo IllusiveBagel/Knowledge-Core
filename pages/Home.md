@@ -1,11 +1,3 @@
-- Test Home page
-- Another test
-- A Further Test
-- Yet another test
-- Once again I am asking for a test
-- again a test
-- One more test
-- Another one more test
-- One more test
-- Okay final test
+## To be processed
+- Basic documentation on using React Navigation in React Native covering Authentication as well
 -
