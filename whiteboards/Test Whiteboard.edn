@@ -1,0 +1,27 @@
+{:blocks (
+{:block/content "This is a little test"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "677e88d2-0dc0-4e2e-8b43-c8041e671fd7"}
+:block/parent 
+{:block/uuid #uuid "677e88d2-0dc0-4e2e-8b43-c8041e671fd7"}
+:block/properties 
+{}
+:block/uuid #uuid "677e88f2-3871-43c4-970f-21bce8758754"})
+:pages (
+{:block/uuid #uuid "677e88d2-0dc0-4e2e-8b43-c8041e671fd7"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "677e88d2-0dc0-4e2e-8b43-c8041e671fd7"
+:name "test whiteboard"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/updated-at 1736345911187
+:block/created-at 1736345810068
+:block/type "whiteboard"
+:block/name "test whiteboard"
+:block/original-name "Test Whiteboard"})}
