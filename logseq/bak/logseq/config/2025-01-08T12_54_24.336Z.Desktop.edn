@@ -421,4 +421,4 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "Home"}
- :graph/settings {:builtin-pages? false}}
+ :graph/settings {:builtin-pages? true}}
