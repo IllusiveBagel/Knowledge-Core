@@ -1,1 +1,1 @@
-- [[React-Navigation in React Native]]#React-Navigation
+- [[React-Navigation in React Native]]
