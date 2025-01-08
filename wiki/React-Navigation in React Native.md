@@ -1,6 +1,6 @@
 ## 1. **Set Up a React Native Project with TypeScript**
 First, create a new React Native project with TypeScript:
-```base
+```bash
 npx react-native init MyReactNativeApp --template react-native-template-typescript
 cd MyReactNativeApp
 ```
