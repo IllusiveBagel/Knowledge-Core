@@ -1,2 +1,1 @@
-- This is the home of the Wiki
-- #[[React-Navigation in React Native]]
+- [[React-Navigation in React Native]]#React-Navigation
