@@ -1,1 +1,0 @@
-- This is a simple page to test that git is working
